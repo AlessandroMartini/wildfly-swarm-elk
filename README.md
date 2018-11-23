@@ -4,7 +4,7 @@ Wildfly-swarm and ELK log centralized
 ### ELK Docker
 
 ``` sh
-docker-composer up -d
+docker-composer up
 ```
 
 ## Build & Run
